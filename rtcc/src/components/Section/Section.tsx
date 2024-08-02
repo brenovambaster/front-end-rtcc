@@ -1,7 +1,7 @@
 function Section() {
     return (
         <section>
-            <h1>Section</h1>
+            <h1>TCCs</h1>
         </section>
     )
 }

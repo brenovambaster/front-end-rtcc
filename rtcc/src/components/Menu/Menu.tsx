@@ -10,7 +10,7 @@ function Menu() {
                 <Nav className="mr-auto">
                     <Nav.Link href="/professor">Professores</Nav.Link>
                     <Nav.Link href="/courses">Cursos</Nav.Link>
-                    <Nav.Link href="/contact">Contato</Nav.Link>
+                    <Nav.Link href="/tcc">TCC</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
